@@ -1,0 +1,10 @@
+<mvc:View controllerName="com.uma.project1.project1.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <content>
+    <Text id="Text1" text="BTP most commonly refers to SAP Business Technology Platform, a unified platform from SAP for integrating, extending, and building AI-driven enterprise apps, covering data, analytics, automation, and development">
+    </Text>
+    </content>
+    </Page>
+</mvc:View>
